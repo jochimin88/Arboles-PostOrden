@@ -24,3 +24,12 @@ hay que realizar las siguientes operaciones recursivamente en cada nodo:
 2. Atraviese el sub-árbol derecho
 3. Visite la raíz
 
+
+## Pseudo-Codigo
+```
+postorden(nodo)
+  si nodo == nulo entonces retorna
+  postorden(nodo.izquierda)
+  postorden(nodo.derecha)
+  imprime nodo.valor
+  ```
