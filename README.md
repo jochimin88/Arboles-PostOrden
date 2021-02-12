@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sorted_binary_tree.svg/350px-Sorted_binary_tree.svg.png)
+
 # Arboles-PostOrden
 
 En ciencias de la computación, el recorrido de árboles se refiere al proceso de visitar de una manera sistemática, 
